@@ -1,0 +1,24 @@
+[Adblock Plus 2.0]
+! Title: 1
+! 最終更新 2022/05/20 10:56
+
+nicovideo.jp##.common-header-1xi0z16
+nicovideo.jp##.common-header-1extteq
+nicovideo.jp##.common-header-m5ds7e
+nicovideo.jp##.MainContainer-marquee
+nicovideo.jp##.InView.BottomContainer
+nicovideo.jp##.FooterContainer-pageTop
+nicovideo.jp##.sub_info_side
+nicovideo.jp##.SeekBarStoryboardPremiumLink
+nicovideo.jp##.PlayerOverlayBottomMessage.PreVideoStartPremiumLinkContainer
+seiga.nicovideo.jp##.nicoad
+seiga.nicovideo.jp##.clip_button_box
+seiga.nicovideo.jp###watch_nicoad
+seiga.nicovideo.jp###tag_nicoad
+seiga.nicovideo.jp###top_nicoad_box
+seiga.nicovideo.jp###illust_top_nicoad
+seiga.nicovideo.jp##.common-header-1xi0z16
+seiga.nicovideo.jp##.common-header-1extteq
+kanmsu.com##.t2
+youtube.com##.style-scope.ytd-rich-grid-row
+youtube.com##.style-scope.ytd-rich-grid-renderer
