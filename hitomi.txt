@@ -5,7 +5,7 @@
 ! This file is only permitted for personal use under copyright law.
 ! Commercial use or  redistribution are prohibited except as permitted by copyright law.
 !
-! Last updated: 2023-01-16
+! Last updated: 2023-01-22
 
 seiga.nicovideo.jp##.nicoad
 seiga.nicovideo.jp###ads_pc_seiga_illust_watch_east
