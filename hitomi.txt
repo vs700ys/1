@@ -9,6 +9,6 @@
 
 seiga.nicovideo.jp##.nicoad
 seiga.nicovideo.jp###ads_pc_seiga_illust_watch_east
-youtube.com###content > ytd-ad-slot-renderer.style-scope.ytd-rich-item-renderer
+youtube.com###fulfilled-layout
 hitomi.la##.j8jK
 hitomi.la##.DGlDzqPp
