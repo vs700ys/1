@@ -9,6 +9,11 @@
 
 seiga.nicovideo.jp##.nicoad
 seiga.nicovideo.jp###ads_pc_seiga_illust_watch_east
+blog.livedoor.jp##.blogroll-wrapper
+youtube.com###root
+seiga.nicovideo.jp##.common-header-m5ds7e
+
+
 hitomi.la##.j8jK
 hitomi.la##.DGlDzqPp
 hitomi.la##.tYzOKZnm0lW9dpM
