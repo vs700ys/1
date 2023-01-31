@@ -2,6 +2,8 @@
 ! Title: 1
 
 nicovideo.jp##.MainContainer-marquee
+nicovideo.jp###js-app > div.WatchAppContainer > div.WatchAppContainer-main:nth-child(2) > div.InView.BottomContainer:last-child
+nicovideo.jp##.FooterContainer-pageTop
 
 seiga.nicovideo.jp##.nicoad
 seiga.nicovideo.jp##.common-header-m5ds7e
