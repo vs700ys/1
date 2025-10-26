@@ -1,0 +1,8 @@
+! 2025/10/26 https://sp.nicovideo.jp
+sp.nicovideo.jp##.common-header-po0rm8
+sp.nicovideo.jp##.common-header-104x9ml
+sp.nicovideo.jp##.top-SignupContainer_PremiumRegister
+sp.nicovideo.jp##._1e0o3gc1
+sp.nicovideo.jp###jsSmartAppBanner
+sp.nicovideo.jp###jsMarqueeContainer
+sp.nicovideo.jp##.siteWide-PremiumButton_Button
