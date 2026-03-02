@@ -1,4 +1,6 @@
 ! Title: My NicoNico Filters
+! Expires: 1 days
+
 sp.nicovideo.jp##._4wqbwn1 > [href^="https://account.nicovideo.jp/premium/register"]
 sp.nicovideo.jp##.common-header-po0rm8
 sp.nicovideo.jp###jsSmartAppBanner
