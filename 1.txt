@@ -1,0 +1,6 @@
+[Adblock Plus 2.0]
+! 2026/03/02 https://sp.nicovideo.jp
+sp.nicovideo.jp##._4wqbwn1 > [href^="https://account.nicovideo.jp/premium/register"]
+sp.nicovideo.jp##.common-header-po0rm8
+sp.nicovideo.jp###jsSmartAppBanner
+sp.nicovideo.jp###jsMarqueeContainer
